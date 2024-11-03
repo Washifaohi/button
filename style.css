@@ -1,0 +1,41 @@
+.basic-button{
+    background-color: crimson;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    color: black;
+
+}
+
+.hover-button{
+    background-color: darkmagenta;
+    font-size: 20px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    display: block;
+    
+  
+}
+
+.hover-button:hover{
+    background-color: cornflowerblue;
+    border: 10px solid black;
+}
+
+.round-button{
+    background-color: cornflowerblue;
+    font-size: 15px;
+    padding: 5px 11px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    display: block;
+    border-radius: 50px;
+    
+  
+}
+
